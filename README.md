@@ -86,7 +86,7 @@ O sistema conta com validações complexas para garantir a integridade dos dados
     ```
 
 3.  **Explore a API via Swagger:**
-    Acesse: [http://localhost:3000/api](http://localhost:3000/api)
+    Acesse: [http://localhost:3000/swagger-ui](http://localhost:3000/swagger-ui)
 
 ---
 
@@ -125,4 +125,4 @@ Para validar todas as funcionalidades e regras de negócio, siga este fluxo:
 5.  **Tipos de Florada**: Tente usar "Laranja" (não permitido) em vez de "Citros".
 
 ---
-*Projeto acadêmico finalizado.*
+*Projeto acadêmico finalizado.*
